@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/info/goolap/beuth/jdbc/Person_DEMO_Client.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/info/goolap/beuth/jdbc/Storage/Person_DataAccessObject/Person_Storage.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/info/goolap/beuth/jdbc/Storage/Person_DataAccessObject/SQL_Statements.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/info/goolap/beuth/jdbc/logic/Person/Person_Logic.java" charset="UTF-16" />
+  </component>
+</project>
